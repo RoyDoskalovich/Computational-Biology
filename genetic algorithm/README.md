@@ -82,3 +82,9 @@ Various combinations of population size and generation count were tested:
 ![POP=180_GEN=40](https://github.com/user-attachments/assets/7e6920fa-d3af-4ebc-9c58-dc9573ee1383)
 ![POP=100_GEN=50](https://github.com/user-attachments/assets/248f9e39-2c91-41c7-983d-1cf04a37c52d)
 
+## Usage
+To run the simulation:
+1. Ensure Python 3.x with numpy and matplotlib is installed.
+2. Download the GA.exe file from this [drive](https://drive.google.com/drive/folders/1YV0cZw733MaLh9Rk8jVq1_u4qel_gbZU?usp=sharing).
+3. Run the GA.exe.
+
