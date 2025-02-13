@@ -36,7 +36,7 @@ To run the simulation:
 3. Download the GA.exe file from this [drive](https://drive.google.com/drive/folders/1YV0cZw733MaLh9Rk8jVq1_u4qel_gbZU?usp=sharing).
 4. Run the SOM.exe.
 
-  The execution will output:
+  The program will output:
    - A visualization of dominant digit clusters.
    - A display of the learned neuron weight vectors.
    - Metrics evaluating the quality of the SOM.
